@@ -1,2 +1,2 @@
 # Madminn
-Modern Dasghboard
+Modern Dashboard
